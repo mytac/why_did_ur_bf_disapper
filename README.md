@@ -1,4 +1,5 @@
 
+[中文版本](https://github.com/mytac/why_did_ur_bf_disapper/blob/master/CHINESE.md)
 ## Introduce
 ### Personal business includes: 
 1. querying someone's ID number, mobile phone number and household registration.
@@ -7,7 +8,7 @@
 ## How to contact with me?
 1. Confirm the price. The above businesses are in the range of 1000 ~ 2500 RMB, if you accept, please continue to the next step; otherwise please close the page.
 
-2. [Download the bat app](https://www.batmsg.com/), my id is 1048153. Or leave a message on github.
+2. [Download the bat app](https://www.batmsg.com/), my id is 1048153. Or [leave a message on github](https://github.com/mytac/why_did_ur_bf_disapper/issues).
 
 
 
